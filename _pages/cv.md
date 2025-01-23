@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-More details about my [CV]([https://zz2020zz.github.io//files//ZHAOCV.pdf)
+More details about my <a href="https://zz2020zz.github.io//files//ZHAOCV.pdf"> Curriculum Vitae </a>
 
 Education
 ======
@@ -41,8 +41,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
