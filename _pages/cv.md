@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[**More details about my CV **](/files/ZHAOCV.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, Queen Mary University of University (QMUL), Jan. 2024
