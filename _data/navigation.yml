@@ -10,10 +10,22 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-     
-  - title: "CV"
-    url: /cv/
     
+  - title: "Research Areas"
+    url: /research/    
+     
+  - title: "Group Members"
+    url: /group/    
+    
+  - title: "Opening Positions"
+    url: /positions/  
+    
+  - title: "Teaching"
+    url: /teaching/  
+    
+  - title: "Personal Activities"
+    url: /activities/
+    
+  - title: "Contact"
+    url: /contact/    
+     
