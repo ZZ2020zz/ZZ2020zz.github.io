@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-More details about my <a href="https://github.com/ZZ2020zz/ZZ2020zz.github.io/blob/master/files/ZhaoCV.pdf"> Curriculum Vitae </a>
+More details about my <a href="https://zz2020zz.github.io/files/ZhaoCV.pdf"> Curriculum Vitae </a>
 
 Education
 ======
