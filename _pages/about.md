@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Welcome! 
-I am a Lecturer affiliated with the <a herf="https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/research/autonomous-systems/">Autonomous Group</a> at the <a herf="https://www.northumbria.ac.uk/">Northumbria University</a>, UK. Before that, I worked as a Teaching Fellow at <a herf="https://www.qmul.ac.uk/">Queen Mary University of London</a> (Part-time, During my PhD).
+I am a Lecturer (my <a href="https://zz2020zz.github.io/files/ZhaoCV.pdf"> Curriculum Vitae </a>) affiliated with the <a herf="https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/research/autonomous-systems/">Autonomous Group</a> at the <a herf="https://www.northumbria.ac.uk/">Northumbria University</a>, UK. Before that, I worked as a Teaching Fellow at <a herf="https://www.qmul.ac.uk/">Queen Mary University of London</a> (Part-time, During my PhD).
 
-I have a multidisciplinary background, received a Ph.D. degree from the <a href="https://www.qmul.ac.uk/eecs/">School of Electronic Engineering and Computer Science</a>, Queen Mary University of London</a>, UK in Computer Science. Prior to that, I graduated from Shenzhen University, Shenzhen, China in Information and Communication Engineering.
+I have a multidisciplinary background, received a Ph.D. degree from the <a href="https://www.qmul.ac.uk/eecs/">School of Electronic Engineering and Computer Science</a>, Queen Mary University of London, UK in Computer Science. Prior to that, I graduated from Shenzhen University, Shenzhen, China in Information and Communication Engineering.
 
 Research interest: 
 Localization and Navigation; Radio-based Robotics; Industrial Internet of Things; Smart Sensing; Artificial Intelligence/Machine learning
