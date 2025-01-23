@@ -21,7 +21,7 @@ repository               : "https://zz2020zz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/css/profile.png"
+  avatar           : "https://zz2020zz.github.io/assets/css/profile.png"
   name             : "Dr. Zhao HUANG"
   pronouns         : "he/him"  
   # bio              : "Short biography for the left-hand sidebar"
