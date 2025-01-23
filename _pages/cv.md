@@ -11,41 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Queen Mary University of University (QMUL), Jan. 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan. 2024: Lecturer
+  * School of Computer Science, Northumbria University
+  * Duties include: Teaching (40%), Research (40%) and Administration (20%)
+  * Supervisor: more than 30 master students and Co-supervise two PhD students (one PhD with Dr. Stefan (QMUL) and another with Dr. Chaoyun Song (KCL))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2023-Aug. 2024: Teaching Fellow
+  * School of Electronic Engineering and Computer Science (EECS), QMUL
+  * Duties included: Supervising 8 undergraduate students and 12 master students for their final projects.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Sept. 2021-Dec. 2023: Teaching Assistant
+  * EECS, QMUL
+  * Duties include: Helping students solve their problems on the workshops.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* More than 16 papers are published.
+* More than 10 papers are still under review.
   
 Talks
 ======
@@ -58,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
