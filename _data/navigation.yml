@@ -14,8 +14,8 @@ main:
   - title: "Research Areas"
     url: /research/    
      
-  - title: "Group Members"
-    url: /group/    
+  # - title: "Group Members"
+  #   url: /group/    
     
   - title: "Opening Positions"
     url: /positions/  
