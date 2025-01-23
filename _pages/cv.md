@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**More details about my CV **](/files/ZHAOCV.pdf)
+More details about my [CV]([https://zz2020zz.github.io//files//files//ZHAOCV.pdf)
 
 Education
 ======
