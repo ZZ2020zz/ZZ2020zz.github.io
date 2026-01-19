@@ -27,7 +27,4 @@ main:
     url: /activities/
     
   - title: "Contact"
-    url: /contact/    
-
-  - title: "IEEE"
-    url: /IEEE/    
+    url: /contact/ 
